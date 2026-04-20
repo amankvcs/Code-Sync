@@ -4,15 +4,6 @@
 
 **Code Sync: A Real-Time Collaborative Coding and Communication Workspace**
 
-## Student Submission Details
-
-- Student Name: _Update here_
-- Roll Number: _Update here_
-- Course/Branch: _Update here_
-- College/Institute: _Update here_
-- Guide Name: _Update here_
-- Academic Session: _Update here_
-
 ## 1. Introduction
 
 Software development increasingly depends on collaboration, rapid communication, shared understanding, and quick experimentation. Traditional coding tools are powerful for individuals, but many lightweight classroom and project environments still lack an integrated platform where multiple users can code, discuss, draw, and test ideas together in real time.

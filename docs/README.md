@@ -17,5 +17,3 @@ These documents are based on the current implementation in this repository:
 - Express + Socket.IO backend
 - Judge0 integration for code execution
 - Hugging Face or Pollinations integration for AI-assisted code generation
-
-You can further customize institute name, student name, guide name, and submission metadata before final submission.
