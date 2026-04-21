@@ -12,6 +12,5 @@
     "noEmit": true,
     "types": ["node"]
   },
-  "include": ["vite.config.mjs"]
+  "include": ["vite.config.mjs", "vite.config.ts", "*.config.ts"]
 }
-
